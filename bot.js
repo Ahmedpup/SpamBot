@@ -10,4 +10,4 @@ channel.send(`** spaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 }, 30)
 })
 
-client.login("NTIzMDQ3MjUwNDc0MDQxMzc1.DvU-KQ.a5kpfRtGanq_Pcdgahpb_XYko2M");
+client.login("NTIzMTI4MTM3NDY3NDI4ODY1.DvVBBg.kLwbq0X0brl0IcqzhjOpwBGX57E");
