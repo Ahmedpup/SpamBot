@@ -10,4 +10,4 @@ channel.send(`** spaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 }, 30)
 })
 
-client.login(process.env.BOT_TOKEN);
+client.login("NTIzMDQ3MjUwNDc0MDQxMzc1.DvU-KQ.a5kpfRtGanq_Pcdgahpb_XYko2M");
